@@ -70,7 +70,7 @@ By sharing this repository, I aim to demonstrate the core principles of SNMP int
 
 ---
 
-**Contact Info**
-Project Author: Adir Gelkop
-Email: adirgelkop@gmail.com
-GitHub: https://github.com/AdirGelkop
+## **Contact Info**
+- **Project Author:** Adir Gelkop
+- **Email:** [adirgelkop@gmail.com](mailto:adirgelkop@gmail.com)
+- **GitHub:** [Adir Gelkop](https://github.com/AdirGelkop)
