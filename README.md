@@ -1,7 +1,5 @@
 # SNMP-Integration-for-Monitoring-Automation
 
-# SNMP Integration for Monitoring Systems
-
 This repository contains a Python-based script designed to integrate SNMP data with monitoring systems like PRTG. The script demonstrates core concepts in SNMP integration, device querying, and monitoring data representation, with a focus on educational and illustrative purposes.
 
 ## Features
